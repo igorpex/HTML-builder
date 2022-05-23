@@ -1,3 +1,8 @@
+02-write-file/output.txt
+04-copy-directory/files-copy/
+05-merge-styles/project-dist/bundle.css
+06-build-page/project-dist/
+
 # Logs
 logs
 *.log
@@ -102,3 +107,4 @@ dist
 
 # TernJS port file
 .tern-port
+
